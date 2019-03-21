@@ -1,6 +1,6 @@
 # FTDI Friend
 
-<a href="http://www.adafruit.com/products/284"><img src="assets/board.jpg?raw=true" width="500px"></a>
+<a href="http://www.adafruit.com/products/284"><img src="assets/board.jpg?raw=true" width="500px"><br/>Click here to purchase one from the Adafruit shop</a>
 
 Note: These use genuine FTDI chips, either we purchase them or they are manufactured to our specifications with the requirement of genuine FTDI chips 10/22/14 - [read more](https://blog.adafruit.com/2014/10/22/ftdi-drivers-brick-counterfeit-chips-with-latest-windows-update/).
 
