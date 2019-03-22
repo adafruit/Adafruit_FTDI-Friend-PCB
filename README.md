@@ -1,6 +1,7 @@
 # FTDI Friend
 
 <a href="http://www.adafruit.com/products/284"><img src="assets/board.jpg?raw=true" width="500px"><br/>Click here to purchase one from the Adafruit shop</a>
+
 Long gone are the days of parallel ports and serial ports. Now the USB port reigns supreme! But USB is hard, and you just want to transfer your every-day serial data from a microcontroller to computer. What now? Enter the FTDI Friend!
 
 The FTDI Friend is a tweaked out FTDI FT232RL chip adapter. Sure, like the well-known FTDI cable, it can provide power to your project and there are 4 signal lines for sending data back and forth. But the Friend can do much more! For example, you can change the signal and power lines to be either 3.3V or 5V. Arduino-derivatives and XBees use the RTS line for programming but what if you need that DTR line? It's there for you.
