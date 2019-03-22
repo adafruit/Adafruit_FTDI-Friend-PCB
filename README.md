@@ -1,4 +1,4 @@
-# FTDI Friend
+# Adafruit FTDI Friend
 
 <a href="http://www.adafruit.com/products/284"><img src="assets/board.jpg?raw=true" width="500px"><br/>Click here to purchase one from the Adafruit shop</a>
 
