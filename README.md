@@ -10,6 +10,10 @@ By default, we've set it up so that it matches our FTDI cables. The 6th pin is R
 
 And of course, we include __a little extra__ - in this case its the extra-long headers that you can use to plug it into a breadboard. There are also blinkies, 2 red & green LEDs __already on the board__ that pulse when serial is sent or received.
 
+Revision History:
+
+* As of December 5, 2023 - We've updated this board with a micro USB-B connector as well as used Adafruit Pinguin to make a lovely silkscreen.
+
 ### License
 
 Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit](https://www.adafruit.com)!
